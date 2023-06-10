@@ -46,3 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 # Install Dependencies
 ### `npm install`
+
+# Usage
+1.Enter a value input
+2.Click on Search year, Search driver, Search team and Search race button and it will display a filter results with them.
