@@ -1,0 +1,11 @@
+.rm-border:focus{
+  box-shadow:none !important;
+}
+
+.form-border{
+  width:35%;
+  height:auto;
+  border:1px solid lightgray;
+  padding:15px;
+  margin:0 auto;
+}
