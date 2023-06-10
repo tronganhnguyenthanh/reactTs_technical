@@ -48,6 +48,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### `npm install`
 
 # Usage
-Enter a value input
-Click on Search year, Search driver, Search team, Search race and Reset race list buttons and it will display a filter results with them.
-Click the Reset race list button if you want to go back to your initial list
+## Enter a value input
+## Click on Search year, Search driver, Search team, Search race and Reset race list buttons and it will display a filter results with them.
+## Click the Reset race list button if you want to go back to your initial list
