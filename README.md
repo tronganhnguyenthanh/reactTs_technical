@@ -44,10 +44,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# Install Dependencies
-### `npm install`
 
+# Install depencies
+### `npm install`
 # Usage
-## Enter a value input
-## Click on Search year, Search driver, Search team, Search race and Reset race list buttons and it will display a filter results with them.
-## Click the Reset race list button if you want to go back to your initial list
+## Enter a value input 
+## Click on Search year, Search driver, Search team, Search race and Reset race list buttons and it will display a filter results with them
+## Click the Reset race list button if you want to go back to your initial list.
+
+
+
